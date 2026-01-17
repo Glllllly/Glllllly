@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![e9ca1327c1224b44b0fd9189d8de2ac](https://github.com/user-attachments/assets/1530f12b-e9b2-49ff-b76b-21faf4241b49)
+
+🏆**2023 ISEF System Software** 4th prize
+
+repository🔗: <https://github.com/gllllly/writingmarker>
+
+🏆**2025 TRAE vibe coding workshop** 1th prize
+
+repository🔗: <https://github.com/Glllllly/mc-mod-emotion-effect>
